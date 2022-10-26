@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maxwell20
 - 👀 I’m interested in Machine learning and Cyber Security
-- 🌱 I’m currently learning Machine learning, specifically in the areas of anomaly detection, image classification and model interpretability
+- 🌱 I’m currently learning Machine Learning, specifically in the areas of anomaly detection, image classification and model interpretability
 - 📫 How to reach me ...
 
 <!---
